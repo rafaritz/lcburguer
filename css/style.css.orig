@@ -11,10 +11,13 @@
 .footer {
     padding-top: 10px;
     color: #fff;
+<<<<<<< HEAD
 }
 
 .contato {
     padding-top: 80px;
     height: 650px;
 
+=======
+>>>>>>> footer
 }
