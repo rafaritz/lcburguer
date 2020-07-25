@@ -1,12 +1,9 @@
 .cardapioimg{
-    width: 320px;
-    height: 205px;
     object-fit: contain;
 }
 
 .bannerimg{
-    width: 320px;
-    height: 420px;
+
     object-fit: cover;
 }
 
