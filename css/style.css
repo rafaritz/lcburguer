@@ -1,11 +1,51 @@
+body {
+    
+font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto Slab', serif;
+}
+
+.nav-item { 
+    font-family: 'open sans';
+    color: white;
+}
+
+h1 {
+    margin-top: 1em;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 700;
+    color: darkorange;
+    text-transform: uppercase;
+}
+
+h2 {
+    margin-top: 1em;
+    text-align: left;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+}
+
+p {
+    margin-top: 1em;
+    text-align: left;
+    font-family: 'open sans';
+    color: grey;
+}
+
+.btn { 
+    background-color: darkorange;
+    border-color: chocolate;
+    transition: none;
+    margin-top: 1em;
+}
+
 .cardapioimg{
-    width: 320px;
-    height: 205px;
+    object-fit: contain;
 }
 
 .bannerimg{
-    width: 320px;
-    height: 420px;
+
+    object-fit: contain;
 }
 
 .footer {
