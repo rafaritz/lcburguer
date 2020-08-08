@@ -10,7 +10,7 @@ font-family: 'Roboto Slab', serif;
 }
 
 h1 {
-    margin-top: 1em;
+    
     text-align: center;
     font-family: 'Roboto Slab', serif;
     font-weight: 700;
@@ -19,14 +19,14 @@ h1 {
 }
 
 h2 {
-    margin-top: 1em;
+    
     text-align: left;
     font-family: 'Roboto Slab', serif;
     font-weight: 300;
 }
 
 p {
-    margin-top: 1em;
+    
     text-align: left;
     font-family: 'open sans';
     color: grey;
@@ -36,7 +36,7 @@ p {
     background-color: darkorange;
     border-color: chocolate;
     transition: none;
-    margin-top: 1em;
+    
 }
 
 .cardapioimg{
@@ -54,6 +54,7 @@ p {
 }
 
 .contato {
+    
     padding-top: 80px;
     height: 650px;
 
